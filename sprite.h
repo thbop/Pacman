@@ -25,7 +25,7 @@ const u32 SPRITECOLORS[] = {
 // CHERRY  12:12 01
 
 // SPRITES FILE
-// u8 for sprite dimensions (X 0000 Y 0000)
-// Series of 4bit pixels wrapped by dimensions
+// 2 u8s for sprite dimensions and length (X 0000 Y 0000 L 00000000)
+// Series of 2bit indicies wrapped by dimensions
 
 #endif
