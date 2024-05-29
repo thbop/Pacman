@@ -15,9 +15,14 @@ const u32 SPRITECOLORS[] = {
     0xDE9747FF, // CHERRY STEM
 };
 
-// PACMAN 13:13 (generally)
-// GHOST 14:14
-// TILE 8:8
+// textures.png
+// TILES   08:08 10
+// PACMAN0 13:13 03
+// PACMAN1 15:13 11
+// GHOST T 14:09 05
+// GHOST B 14:05 04
+// GHOST E 10:05 04
+// CHERRY  12:12 01
 
 // SPRITES FILE
 // u8 for sprite dimensions (X 0000 Y 0000)
